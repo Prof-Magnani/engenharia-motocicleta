@@ -1,18 +1,21 @@
-# MEXXX – Engenharia da Motocicleta 🏍️
+# Engenharia da Motocicleta 🏍️
 
 ## 📚 Descrição da Disciplina
 Disciplina eletiva do curso de Engenharia Mecânica da Universidade Federal de Pernambuco (UFPE), com carga horária de 60 horas (4 créditos).  
 Pré-requisito: **Termodinâmica 2**.  
 
-## 👨‍🏫 Professor
-- **Prof. Fábio Magnani**  
-- Departamento de Engenharia Mecânica – UFPE  
+---
 
-A disciplina aborda a **cultura, tecnologia e dinâmica das motocicletas**, com ênfase na modelagem matemática e análise de sistemas de propulsão, dinâmica longitudinal e design.  
+## 👨‍🏫 Professor
+- Prof. Fábio Magnani  
+- Departamento de Engenharia Mecânica – UFPE  
 
 ---
 
 ## 🎯 Objetivos
+
+A disciplina aborda a **cultura, tecnologia e dinâmica das motocicletas**, com ênfase na modelagem matemática e análise de sistemas de propulsão, dinâmica longitudinal e design.  
+
 - Compreender a **cultura e evolução tecnológica** das motocicletas.  
 - Estudar a **história da indústria** motociclística e seus pioneiros.  
 - Analisar a **tecnologia dos componentes modernos** das motocicletas.  
@@ -58,4 +61,4 @@ Este repositório contém:
 
 ## 📓 Aulas em notebooks
 
-[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Prof-Magnani/engenharia-motocicleta/blob/main/simulacao_motocicleta.ipynb)
+[![Estudo do movimento longitudinal da motocicleta](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Prof-Magnani/engenharia-motocicleta/blob/main/simulacao_motocicleta.ipynb)
