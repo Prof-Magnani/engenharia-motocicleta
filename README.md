@@ -61,4 +61,8 @@ Este repositório contém:
 
 ## 📓 Aulas em notebooks
 
-Estudo do movimento longitudinal da motocicleta: [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Prof-Magnani/engenharia-motocicleta/blob/main/notebooks/simulacao_motocicleta.ipynb)
+Estudo do movimento longitudinal da motocicleta:
+
+- [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Prof-Magnani/engenharia-motocicleta/blob/main/notebooks/simulacao_motocicleta.ipynb) Versão interativa (recomendada para experimentação e simulação).
+
+- 📄 [Versão estática (HTML)](https://prof-magnani.github.io/engenharia-motocicleta/notebooks/simulacao_motocicleta.html) Visualização direta, sem necessidade de execução.
