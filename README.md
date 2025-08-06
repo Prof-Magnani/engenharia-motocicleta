@@ -1,8 +1,9 @@
 # Engenharia da Motocicleta 🏍️
 
 ## 📚 Descrição da Disciplina
-Disciplina eletiva do curso de Engenharia Mecânica da Universidade Federal de Pernambuco (UFPE), com carga horária de 60 horas (4 créditos).  
-Pré-requisito: **Termodinâmica 2**.  
+Disciplina eletiva do curso de Engenharia Mecânica da Universidade Federal de Pernambuco (UFPE)
+Carga horária de 60 horas (4 créditos).  
+Pré-requisito: Termodinâmica 2.  
 
 ---
 
