@@ -1,6 +1,6 @@
 # Engenharia da Motocicleta 🏍️
 
-## 📚 Descrição da Disciplina  
+## Descrição da Disciplina  
 Disciplina eletiva do curso de Engenharia Mecânica da Universidade Federal de Pernambuco (UFPE)  
 Carga horária de 60 horas (4 créditos)  
 Pré-requisito: Termodinâmica 2
@@ -8,25 +8,24 @@ Pré-requisito: Termodinâmica 2
 
 ---
 
-## 👨‍🏫 Professor
+##  Professor
 - Prof. Fábio Magnani  
 - Departamento de Engenharia Mecânica – UFPE  
+- fabio.magnani@ufpe.br 
 
 ---
 
-## 🎯 Objetivos
+## Objetivos
 
 A disciplina aborda a **cultura, tecnologia e dinâmica das motocicletas**, com ênfase na modelagem matemática e análise de sistemas de propulsão, dinâmica longitudinal e design.  
 
 - Compreender a **cultura e evolução tecnológica** das motocicletas.  
-- Estudar a **história da indústria** motociclística e seus pioneiros.  
 - Analisar a **tecnologia dos componentes modernos** das motocicletas.  
 - Desenvolver modelos de **dinâmica longitudinal** considerando forças, balanço energético e propulsão.  
-- Integrar conceitos de termodinâmica, dinâmica veicular e engenharia de sistemas.  
 
 ---
 
-## 📝 Conteúdo Programático
+## Conteúdo Programático
 - Cultura da motocicleta: filmes, propagandas, grupos sociais, campanhas.  
 - História: bicicletas, motores, pioneiros, fábricas europeias, americanas e asiáticas.  
 - Componentes das motocicletas modernas.  
@@ -36,7 +35,7 @@ A disciplina aborda a **cultura, tecnologia e dinâmica das motocicletas**, com 
 
 ---
 
-## 📖 Bibliografia
+## Bibliografia
 ### Básica
 - **Motorcycle** – Alford, S. E.; Ferriss, S. (2008).  
 - **The Racing Motorcycle: A Technical Guide for Constructors** – Bradley, J. (1996).  
@@ -52,16 +51,16 @@ A disciplina aborda a **cultura, tecnologia e dinâmica das motocicletas**, com 
 
 ---
 
-## 🛠️ Repositório
+##  Repositório
 Este repositório contém:
-- Apostilas e notas de aula em **Jupyter Notebook**.  
-- Modelos computacionais e simulações em Python/Scilab.  
-- Exemplos de modelagem da dinâmica de motocicletas.  
+- Notebooks interativos envolvendo texto e código em **Jupyter**.  
+- Modelos computacionais em Scilab.  
+- Apostilas em pdf.  
 - Recursos complementares (*links* para textos, referências, vídeos).
 
 ---
 
-## 📓 Aulas em Notebooks
+## Aulas em Notebooks
 
 - Estudo do movimento longitudinal da motocicleta com potência constante [[colab](https://colab.research.google.com/github/Prof-Magnani/engenharia-motocicleta/blob/main/notebooks/simulacao_motocicleta.ipynb)] • [[HTML](https://prof-magnani.github.io/engenharia-motocicleta/notebooks/simulacao_motocicleta.html)]
 
