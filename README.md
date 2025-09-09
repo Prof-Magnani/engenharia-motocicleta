@@ -61,10 +61,51 @@ Este repositório contém:
 
 ---
 
-## 📓 Aulas em notebooks
+## 📓 Aulas em Notebooks
 
-Estudo do movimento longitudinal da motocicleta:
+- Estudo do movimento longitudinal da motocicleta com potência constante [[colab](https://colab.research.google.com/github/Prof-Magnani/engenharia-motocicleta/blob/main/notebooks/simulacao_motocicleta.ipynb)] • [[HTML](https://prof-magnani.github.io/engenharia-motocicleta/notebooks/simulacao_motocicleta.html)]
 
-- [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Prof-Magnani/engenharia-motocicleta/blob/main/notebooks/simulacao_motocicleta.ipynb) Versão interativa (recomendada para experimentação e simulação).
+### Sobre os formatos disponíveis
 
-- 📄 [Versão estática (HTML)](https://prof-magnani.github.io/engenharia-motocicleta/notebooks/simulacao_motocicleta.html) Visualização direta, sem necessidade de execução.
+Cada nota de estudo é publicada em diferentes formatos, para atender a usos variados:
+
+- 📓 **Colab** — versão interativa do notebook no Google Colab, onde é possível executar os códigos em Python diretamente no navegador, sem instalação local.  
+- 🌐 **HTML** — versão estática em página web, ideal para leitura rápida e visualização em qualquer dispositivo.  
+- 📑 **PDF** — versão em documento fixo, prática para impressão, anotações e uso offline.  
+- 🎞️ **Slides (reveal.js)** — versão em formato de apresentação, adequada para revisões em sala de aula ou exposições rápidas.  
+- 📊 **PPTX** — versão compatível com PowerPoint/LibreOffice Impress, permitindo editar os slides e adaptá-los a outras apresentações.
+
+
+---
+
+## 📚 Apostilas Antigas (LEGACY)
+
+Materiais históricos da versão anterior do curso. 
+
+- **Apostila 01 — Visões da motocicleta**   [[PDF](apostilas-pdf/eng-moto-apost-01-visoes-motocicleta.pdf)] • [[Vídeo](https://www.youtube.com/watch?v=X9RbAon7sug)]
+- **Apostila 02 — Moto básica**   [[PDF](apostilas-pdf/eng-moto-apost-02-moto-basica.pdf)] • [[Vídeo](https://www.youtube.com/watch?v=IDyAYvdUh10)]
+- **Apostila 03 — Solução numérica** [[PDF](apostilas-pdf/eng-moto-apost-03-solucao-numerica.pdf)] • [[Vídeo](https://www.youtube.com/watch?v=I2AIpOF7wf4)]
+- **Apostila 04 — A moto por dentro**  [[PDF](apostilas-pdf/eng-moto-apost-04-moto-por-dentro.pdf)] • [[Vídeo](https://www.youtube.com/watch?v=zMIbKd7HfE4)]
+- **Apostila 05 — O motor da moto**  [[PDF](apostilas-pdf/eng-moto-apost-05-motor-da-moto.pdf)] • [[Vídeo](https://www.youtube.com/watch?v=LKosrAflNno)]
+- **Apostila 06 — O piloto da moto**  [[PDF](apostilas-pdf/eng-moto-apost-06-piloto-da-moto.pdf)] • [[Vídeo](https://www.youtube.com/watch?v=t_9yUY2w8p4)]
+- **Apostila 07 — Análise multimétrica** [[PDF](apostilas-pdf/eng-moto-apost-07-analise-multimetrica.pdf)] • [[Vídeo](https://www.youtube.com/watch?v=O8M-WG3ORoY)]
+- **Termodinâmica — Análise energética de motos**   [[PDF](apostilas-pdf/termodinamica-analise-energetica-motos.pdf)]
+- **Códigos usados nas apostilas:** [[ZIP](apostilas-pdf/codigos-computacionais-engenharia-motocicleta.zip)]
+
+
+ 
+---
+
+---
+
+<p align="center">
+  <a href="https://jupyter.org" target="_blank">
+    <img src="https://jupyter.org/assets/homepage/main-logo.svg" alt="Jupyter" width="180"/>
+  </a>
+</p>
+
+<p align="center">
+  <b>Jupyter é um laboratório vivo de ensino e de prática de ciência — livre, aberto, integrado, integrador, transparente, auditável, reprodutível, interativo e colaborativo.</b>
+</p>
+
+
