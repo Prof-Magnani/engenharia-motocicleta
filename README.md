@@ -55,9 +55,9 @@ A disciplina aborda a **cultura, tecnologia e dinâmica das motocicletas**, com 
 ## 🛠️ Repositório
 Este repositório contém:
 - Apostilas e notas de aula em **Jupyter Notebook**.  
-- Modelos computacionais e simulações em Python/Octave.  
+- Modelos computacionais e simulações em Python/Scilab.  
 - Exemplos de modelagem da dinâmica de motocicletas.  
-- Recursos complementares (textos, imagens, referências).
+- Recursos complementares (*links* para textos, referências, vídeos).
 
 ---
 
@@ -82,14 +82,14 @@ Cada nota de estudo é publicada em diferentes formatos, para atender a usos var
 
 Materiais históricos da versão anterior do curso. 
 
-- **Apostila 01 — Visões da motocicleta**   [[PDF](apostilas-pdf/eng-moto-apost-01-visoes-motocicleta.pdf)] • [[Vídeo](https://www.youtube.com/watch?v=X9RbAon7sug)]
-- **Apostila 02 — Moto básica**   [[PDF](apostilas-pdf/eng-moto-apost-02-moto-basica.pdf)] • [[Vídeo](https://www.youtube.com/watch?v=IDyAYvdUh10)]
-- **Apostila 03 — Solução numérica** [[PDF](apostilas-pdf/eng-moto-apost-03-solucao-numerica.pdf)] • [[Vídeo](https://www.youtube.com/watch?v=I2AIpOF7wf4)]
-- **Apostila 04 — A moto por dentro**  [[PDF](apostilas-pdf/eng-moto-apost-04-moto-por-dentro.pdf)] • [[Vídeo](https://www.youtube.com/watch?v=zMIbKd7HfE4)]
-- **Apostila 05 — O motor da moto**  [[PDF](apostilas-pdf/eng-moto-apost-05-motor-da-moto.pdf)] • [[Vídeo](https://www.youtube.com/watch?v=LKosrAflNno)]
-- **Apostila 06 — O piloto da moto**  [[PDF](apostilas-pdf/eng-moto-apost-06-piloto-da-moto.pdf)] • [[Vídeo](https://www.youtube.com/watch?v=t_9yUY2w8p4)]
-- **Apostila 07 — Análise multimétrica** [[PDF](apostilas-pdf/eng-moto-apost-07-analise-multimetrica.pdf)] • [[Vídeo](https://www.youtube.com/watch?v=O8M-WG3ORoY)]
-- **Termodinâmica — Análise energética de motos**   [[PDF](apostilas-pdf/termodinamica-analise-energetica-motos.pdf)]
+- **Apostila 01 — Visões das Motocicletas**   [[PDF](apostilas-pdf/eng-moto-apost-01-visoes-motocicleta.pdf)] • [[Vídeo](https://www.youtube.com/watch?v=X9RbAon7sug)]
+- **Apostila 02 — A Moto Básica**   [[PDF](apostilas-pdf/eng-moto-apost-02-moto-basica.pdf)] • [[Vídeo](https://www.youtube.com/watch?v=IDyAYvdUh10)]
+- **Apostila 03 — Solução Computacional do Movimento das Motos** [[PDF](apostilas-pdf/eng-moto-apost-03-solucao-numerica.pdf)] • [[Vídeo](https://www.youtube.com/watch?v=I2AIpOF7wf4)]
+- **Apostila 04 — A Moto por Dentro**  [[PDF](apostilas-pdf/eng-moto-apost-04-moto-por-dentro.pdf)] • [[Vídeo](https://www.youtube.com/watch?v=zMIbKd7HfE4)]
+- **Apostila 05 — O Motor da Moto**  [[PDF](apostilas-pdf/eng-moto-apost-05-motor-da-moto.pdf)] • [[Vídeo](https://www.youtube.com/watch?v=LKosrAflNno)]
+- **Apostila 06 — O Piloto da Moto**  [[PDF](apostilas-pdf/eng-moto-apost-06-piloto-da-moto.pdf)] • [[Vídeo](https://www.youtube.com/watch?v=t_9yUY2w8p4)]
+- **Apostila 07 — Análise Multimétrica das Motos** [[PDF](apostilas-pdf/eng-moto-apost-07-analise-multimetrica.pdf)] • [[Vídeo](https://www.youtube.com/watch?v=O8M-WG3ORoY)]
+- **Termodinâmica — Análise Energética das Motos**   [[PDF](apostilas-pdf/termodinamica-analise-energetica-motos.pdf)]
 - **Códigos usados nas apostilas:** [[ZIP](apostilas-pdf/codigos-computacionais-engenharia-motocicleta.zip)]
 
 
