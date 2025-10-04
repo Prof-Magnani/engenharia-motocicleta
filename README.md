@@ -62,7 +62,7 @@ Este repositório contém:
 
 ## Aulas em Notebooks
 
-- Estudo do movimento longitudinal da motocicleta com potência constante [[colab](https://colab.research.google.com/github/Prof-Magnani/engenharia-motocicleta/blob/main/notebooks/simulacao_motocicleta.ipynb)] • [[HTML](https://prof-magnani.github.io/engenharia-motocicleta/notebooks/simulacao_motocicleta.html)]
+- Estudo do movimento longitudinal da motocicleta [[colab](https://colab.research.google.com/github/Prof-Magnani/engenharia-motocicleta/blob/main/notebooks/ne-moto-longitudinal.ipynb)] 
 
 ### Sobre os formatos disponíveis
 
