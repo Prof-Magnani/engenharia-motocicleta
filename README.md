@@ -62,7 +62,8 @@ Este repositório contém:
 
 ## Aulas em Notebooks
 
-- Estudo do movimento longitudinal da motocicleta [[colab](https://colab.research.google.com/github/Prof-Magnani/engenharia-motocicleta/blob/main/notebooks/ne-moto-longitudinal.ipynb)] 
+- Movimento Longitudinal da Motocicleta - Dinâmica Básica [[colab](https://colab.research.google.com/github/Prof-Magnani/engenharia-motocicleta/blob/main/notebooks/ne-moto-longitudinal-basica.ipynb)] 
+- Movimento Longitudinal da Motocicleta - Dinâmica Básica [[colab](https://colab.research.google.com/github/Prof-Magnani/engenharia-motocicleta/blob/main/notebooks/ne-moto-normais-uso-fracionamento)] 
 
 ### Sobre os formatos disponíveis
 
